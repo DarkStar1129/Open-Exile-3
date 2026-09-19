@@ -1,0 +1,10 @@
+Reference renderer hashes (RGB pixel bytes, SHA-256)
+
+Fort Emergence east-move save, classic 9x9, animation frame 2:
+19ad9667cecedebee274696e64366af8d0797c01148c7f15f5c3bb47beea1b88
+
+Outside Fort Emergence, classic 9x9, animation frame 2, outdoor visibility mask enabled:
+bfa7a63b7ff4ae567dce8de7d1674696d8c19bba408a981e2a94815b90eef143
+
+New Cotra, classic 9x9, animation frame 2, terrain LOS enabled:
+e6b0988900aaf5f4aa438435e14df65a6f8958f41582d7db5e7df9d51dfe6237

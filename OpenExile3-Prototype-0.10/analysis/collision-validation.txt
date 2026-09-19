@@ -1,0 +1,13 @@
+collision table offset: 0x5DC7E (384126)
+  5  Cave Wall                        picture=  5  code=5  move-and-sight
+  7  Cave Wall                        picture=  6  code=1  sight
+ 71  Water                            picture=300  code=3  move
+ 75  Lava                             picture=304  code=2  monsters
+ 77  Waterfall                        picture=305  code=4  move-and-shoot
+ 90  Swamp                            picture= 78  code=0  none
+100  Wall                             picture= 88  code=5  move-and-sight
+102  Wall (w. Secret Door)            picture= 89  code=1  sight
+124  Basalt Wall w. Open Door         picture=103  code=0  none
+125  Basalt Wall w. Closed Portcullis picture=104  code=4  move-and-shoot
+245  Walkway                          picture=215  code=0  none
+246  Walkway                          picture=216  code=0  none

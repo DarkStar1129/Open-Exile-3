@@ -1,0 +1,55 @@
+test_scanner_and_semantics (test_collision.CollisionTests.test_scanner_and_semantics) ... ok
+test_synthetic_outdoor_records (test_core.OutdoorTests.test_synthetic_outdoor_records) ... ok
+test_wrong_size_rejected (test_core.OutdoorTests.test_wrong_size_rejected) ... ok
+test_outdoor_location_invariant (test_location.LocationTests.test_outdoor_location_invariant) ... ok
+test_town_mode_retains_outdoor_anchor (test_location.LocationTests.test_town_mode_retains_outdoor_anchor) ... ok
+test_camera_clamp_for_wide_view_near_edge (test_movement.DirectionTests.test_camera_clamp_for_wide_view_near_edge) ... ok
+test_classic_direction_numbering (test_movement.DirectionTests.test_classic_direction_numbering) ... ok
+test_classic_outdoor_window_shift_math (test_movement.DirectionTests.test_classic_outdoor_window_shift_math) ... ok
+test_diagonal_outdoor_window_shift_math (test_movement.DirectionTests.test_diagonal_outdoor_window_shift_math) ... ok
+test_invalid_direction (test_movement.DirectionTests.test_invalid_direction) ... ok
+test_compact_record_landmarks (test_outdoor.OutdoorTests.test_compact_record_landmarks) ... ok
+test_working_map_stitches_four_x_major_sectors (test_outdoor.OutdoorTests.test_working_map_stitches_four_x_major_sectors) ... ok
+test_classic_renderer_reference_hash (test_reference_samples.ReferenceBaseSamples.test_classic_renderer_reference_hash) ... ok
+test_fort_emergence_source_and_guard (test_reference_samples.ReferenceBaseSamples.test_fort_emergence_source_and_guard) ... ok
+test_native_collision_table (test_reference_samples.ReferenceBaseSamples.test_native_collision_table) ... ok
+test_one_tile_east_pair (test_reference_samples.ReferenceBaseSamples.test_one_tile_east_pair) ... ok
+test_sandbox_render_matches_real_one_step_save_without_npc_turns (test_reference_samples.ReferenceBaseSamples.test_sandbox_render_matches_real_one_step_save_without_npc_turns) ... ok
+test_sandbox_reproduces_known_east_move_and_north_block (test_reference_samples.ReferenceBaseSamples.test_sandbox_reproduces_known_east_move_and_north_block) ... ok
+test_editor_modified_party_is_semantically_decodable (test_reference_samples.ReferenceEditorSample.test_editor_modified_party_is_semantically_decodable) ... ok
+test_inn_live_creatures_and_renderer_hash (test_reference_samples.ReferenceInnOfBladesSample.test_inn_live_creatures_and_renderer_hash) ... ok
+test_inn_save_identity_position_and_reverse_outdoor_anchor (test_reference_samples.ReferenceInnOfBladesSample.test_inn_save_identity_position_and_reverse_outdoor_anchor) ... ok
+test_inn_stale_padding_is_not_accepted_for_movement_bounds (test_reference_samples.ReferenceInnOfBladesSample.test_inn_stale_padding_is_not_accepted_for_movement_bounds) ... ok
+test_new_cotra_los_hides_occluded_npc (test_reference_samples.ReferenceNewCotraSample.test_new_cotra_los_hides_occluded_npc) ... ok
+test_new_cotra_sandbox_respects_creature_occupancy (test_reference_samples.ReferenceNewCotraSample.test_new_cotra_sandbox_respects_creature_occupancy) ... ok
+test_new_cotra_transition_and_variable_town_size (test_reference_samples.ReferenceNewCotraSample.test_new_cotra_transition_and_variable_town_size) ... ok
+test_new_formello_anchor_and_variable_town_size (test_reference_samples.ReferenceNewFormelloSample.test_new_formello_anchor_and_variable_town_size) ... ok
+test_new_formello_render_and_creatures (test_reference_samples.ReferenceNewFormelloSample.test_new_formello_render_and_creatures) ... ok
+test_new_formello_sandbox_starts_at_saved_position (test_reference_samples.ReferenceNewFormelloSample.test_new_formello_sandbox_starts_at_saved_position) ... ok
+test_fort_outdoor_transition_anchor (test_reference_samples.ReferenceOutdoorSample.test_fort_outdoor_transition_anchor) ... ok
+test_outdoor_blocks_monsters_code_does_not_block_party (test_reference_samples.ReferenceOutdoorSample.test_outdoor_blocks_monsters_code_does_not_block_party) ... ok
+test_outdoor_visibility_and_renderer_hash (test_reference_samples.ReferenceOutdoorSample.test_outdoor_visibility_and_renderer_hash) ... ok
+test_inn_of_blades_identity_and_outdoor_anchor (test_reference_samples.ReferenceStaticWorldSamples.test_inn_of_blades_identity_and_outdoor_anchor) ... ok
+test_surface_narrative_is_a_decodable_win16_dialog (test_reference_samples.ReferenceStaticWorldSamples.test_surface_narrative_is_a_decodable_win16_dialog) ... ok
+test_transition_index_joins_town_resources_and_outdoor_exits (test_reference_samples.ReferenceStaticWorldSamples.test_transition_index_joins_town_resources_and_outdoor_exits) ... ok
+test_surface_anchor_and_fort_entrance (test_reference_samples.ReferenceSurfaceSample.test_surface_anchor_and_fort_entrance) ... ok
+test_surface_renderer_reference_hash (test_reference_samples.ReferenceSurfaceSample.test_surface_renderer_reference_hash) ... ok
+test_surface_sandbox_detects_town_entrance (test_reference_samples.ReferenceSurfaceSample.test_surface_sandbox_detects_town_entrance) ... ok
+test_surface_special_trigger_detection (test_reference_samples.ReferenceSurfaceSample.test_surface_special_trigger_detection) ... ok
+test_outdoor_info_x_major_access (test_save.OutdoorInfoTests.test_outdoor_info_x_major_access) ... ok
+test_layout_boundaries (test_save.SaveTests.test_layout_boundaries) ... ok
+test_parse_known_fields (test_save.SaveTests.test_parse_known_fields) ... ok
+test_set_gold_changes_only_two_encoded_bytes (test_save.SaveTests.test_set_gold_changes_only_two_encoded_bytes) ... ok
+test_guard_picture_mapping (test_sprites.SpriteTests.test_guard_picture_mapping) ... ok
+test_tables_are_safely_sized (test_sprites.SpriteTests.test_tables_are_safely_sized) ... ok
+test_picture_signature_scanner (test_terrain.TerrainTableTests.test_picture_signature_scanner) ... ok
+test_extract_current_town_terrain_synthetic (test_town.TownTests.test_extract_current_town_terrain_synthetic) ... ok
+test_locate_source_map_with_live_changes (test_town.TownTests.test_locate_source_map_with_live_changes) ... ok
+test_position_and_creature_record (test_town.TownTests.test_position_and_creature_record) ... ok
+test_x_major_tile_access (test_town.TownTests.test_x_major_tile_access) ... ok
+test_compact_live_48_stride (test_town.VariableTownTests.test_compact_live_48_stride) ... ok
+
+----------------------------------------------------------------------
+Ran 50 tests in 1.579s
+
+OK

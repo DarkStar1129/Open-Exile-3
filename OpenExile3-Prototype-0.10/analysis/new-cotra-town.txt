@@ -1,0 +1,7 @@
+Save: /mnt/data/EXILE32_NEW COTRA.SAV
+Town: #42 New Cotra
+Live terrain buffer: absolute save offset 81,589 (64x64 stride)
+Active map: 48x48
+TOWN.DAT source offset: 288,718
+Exact source bytes: 2,304/2,304 (100.00%)
+Exact source columns: 48/48; column-anchor votes: 44

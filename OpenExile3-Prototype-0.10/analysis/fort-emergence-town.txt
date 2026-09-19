@@ -1,0 +1,7 @@
+Save: /mnt/data/EXILE3_EAST.SAV
+Town: #21 Fort Emergence
+Live terrain buffer: absolute save offset 81,589 (64x64 stride)
+Active map: 64x64
+TOWN.DAT source offset: 147,260
+Exact source bytes: 4,056/4,096 (99.02%)
+Exact source columns: 38/64; column-anchor votes: 38

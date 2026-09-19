@@ -1,0 +1,3 @@
+Town #123: Inn of Blades
+  resource difficulty: 2
+  entrance: sector (2,8) record 74, local (25,32), region 'North of Krizsan'

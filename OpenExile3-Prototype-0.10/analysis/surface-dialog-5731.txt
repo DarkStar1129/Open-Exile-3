@@ -1,0 +1,18 @@
+OpenExile3 Prototype 0.10 - surface dialog resource validation
+
+EXILE3.EXE NE resource type:  5 (RT_DIALOG)
+resource ID:                  5731
+resource file offset:         1537536
+resource allocation length:   1536 bytes
+parsed dialog rect:           (10,10) 506x354
+control count:                9
+parsed RT_DIALOG resources:   624/624 in supplied executable
+text-control joined length:   1370 bytes (cp1252; includes small bitmap-name controls)
+text-control SHA-256:         169f0717987176b1caf328f216405d24eb66fd0f8a848a6132fbce6176b64296
+
+The long text controls in this resource correspond to the supplied Valorim
+surface narrative screenshot. The project does not package the original text;
+it is decoded at runtime from the user's own executable.
+
+Important: special ID 2 -> dialog #5731 is a reference correlation, not yet a
+proven decoded runtime script mapping.

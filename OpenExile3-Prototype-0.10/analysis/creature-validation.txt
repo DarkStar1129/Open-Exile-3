@@ -1,0 +1,49 @@
+populated: 47 / 60
+active:    44 / 60
+00 active= 1 id= 33 Official             xy=( 1, 5) dir=0 lvl= 2 hp=6/6 pic=30
+01 active= 1 id=  1 Townsperson          xy=(22, 6) dir=4 lvl= 1 hp=6/6 pic=0
+02 active= 1 id=  6 Townsperson          xy=(27,20) dir=3 lvl= 1 hp=6/6 pic=5
+03 active= 1 id= 13 Soldier              xy=(16,34) dir=0 lvl= 4 hp=20/20 pic=12
+04 active= 1 id= 15 Champion             xy=(25,39) dir=7 lvl=12 hp=75/75 pic=14
+05 active= 1 id=  7 Townsperson          xy=(25,44) dir=0 lvl= 1 hp=6/6 pic=6
+06 active= 1 id=  2 Townsperson          xy=(44,11) dir=1 lvl= 1 hp=6/6 pic=1
+07 active= 1 id= 16 Bladesman            xy=(45,14) dir=7 lvl=20 hp=115/115 pic=15
+08 active= 1 id= 29 Wizard               xy=(48,40) dir=0 lvl=25 hp=90/90 pic=26
+09 active= 1 id= 28 Mage                 xy=(52,46) dir=5 lvl=10 hp=40/40 pic=25
+10 active= 1 id= 28 Mage                 xy=(56,56) dir=2 lvl=10 hp=40/40 pic=25
+11 active= 0 id= 30 Order Mage           xy=(58,38) dir=0 lvl=35 hp=160/160 pic=27
+12 active= 0 id= 30 Order Mage           xy=(61,17) dir=0 lvl=35 hp=160/160 pic=27
+13 active= 1 id= 15 Champion             xy=(37,56) dir=0 lvl=12 hp=75/75 pic=14
+14 active= 1 id=  6 Townsperson          xy=(32,23) dir=3 lvl= 1 hp=6/6 pic=5
+15 active= 1 id= 33 Official             xy=(11,11) dir=0 lvl= 2 hp=6/6 pic=30
+16 active= 0 id=109 Cat                  xy=(32,18) dir=0 lvl= 1 hp=3/3 pic=94
+17 active= 1 id= 12 Guard                xy=(27,10) dir=0 lvl=30 hp=140/140 pic=11
+18 active= 1 id= 12 Guard                xy=(28,10) dir=0 lvl=30 hp=140/140 pic=11
+19 active= 1 id= 12 Guard                xy=(32,10) dir=0 lvl=30 hp=140/140 pic=11
+20 active= 1 id= 12 Guard                xy=(33,10) dir=0 lvl=30 hp=140/140 pic=11
+21 active= 1 id= 12 Guard                xy=(32,56) dir=0 lvl=30 hp=140/140 pic=11
+22 active= 1 id= 12 Guard                xy=(32,53) dir=0 lvl=30 hp=140/140 pic=11
+23 active= 1 id= 12 Guard                xy=(37,53) dir=0 lvl=30 hp=140/140 pic=11
+24 active= 1 id= 12 Guard                xy=(23,26) dir=0 lvl=30 hp=140/140 pic=11
+25 active= 1 id= 12 Guard                xy=(23,20) dir=0 lvl=30 hp=140/140 pic=11
+26 active= 1 id= 12 Guard                xy=( 5,22) dir=0 lvl=30 hp=140/140 pic=11
+27 active= 1 id= 12 Guard                xy=(27,13) dir=0 lvl=30 hp=140/140 pic=11
+28 active= 1 id= 12 Guard                xy=( 7,17) dir=0 lvl=30 hp=140/140 pic=11
+29 active= 1 id= 12 Guard                xy=(33,13) dir=0 lvl=30 hp=140/140 pic=11
+30 active= 1 id= 12 Guard                xy=(34,39) dir=4 lvl=30 hp=140/140 pic=11
+31 active= 1 id= 12 Guard                xy=(19,24) dir=5 lvl=30 hp=140/140 pic=11
+32 active= 1 id= 12 Guard                xy=(17,40) dir=0 lvl=30 hp=140/140 pic=11
+33 active= 1 id= 12 Guard                xy=(13,56) dir=0 lvl=30 hp=140/140 pic=11
+34 active= 1 id= 12 Guard                xy=(15,54) dir=0 lvl=30 hp=140/140 pic=11
+35 active= 1 id= 12 Guard                xy=(33,50) dir=0 lvl=30 hp=140/140 pic=11
+36 active= 1 id= 12 Guard                xy=(36,50) dir=0 lvl=30 hp=140/140 pic=11
+37 active= 1 id= 12 Guard                xy=(11,52) dir=0 lvl=30 hp=140/140 pic=11
+38 active= 1 id= 12 Guard                xy=(37,24) dir=4 lvl=30 hp=140/140 pic=11
+39 active= 1 id= 12 Guard                xy=(37,16) dir=5 lvl=30 hp=140/140 pic=11
+40 active= 1 id=108 Lizard               xy=(34,47) dir=1 lvl= 1 hp=3/3 pic=93
+41 active= 1 id= 12 Guard                xy=(18,22) dir=0 lvl=30 hp=140/140 pic=11
+42 active= 2 id=115 Wolf                 xy=(59,53) dir=5 lvl= 3 hp=15/15 pic=100
+43 active= 1 id=113 Chicken              xy=(54,52) dir=6 lvl= 1 hp=1/1 pic=98
+44 active= 1 id=114 Sheep                xy=(59,58) dir=6 lvl= 1 hp=5/5 pic=99
+45 active= 1 id= 27 Apprentice Mage      xy=(35,51) dir=0 lvl= 5 hp=16/16 pic=24
+46 active= 1 id=109 Cat                  xy=(30,16) dir=7 lvl= 1 hp=3/3 pic=94

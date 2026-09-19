@@ -1,0 +1,25 @@
+OpenExile3 Prototype 0.9 - Surface validation
+
+Save mode: outdoor
+Initial corner: (1,8)
+Initial working/local position: (20,23)
+Initial sector: (1,8), OUTDOOR.DAT record 73
+Region: Fort Emergence Area
+Absolute world tile: (68,407)
+
+OUTDOOR.DAT entrance: local (20,25) -> Town #21 Fort Emergence
+Sandbox move 1: MoveResult(moved=True, source=(20, 23), destination=(20, 24), direction=4, reason='moved', terrain_id=36, blocking_code=0, shifted=(), town_exit=None, world_source=(68, 407), world_destination=(68, 408))
+Sandbox move 2: MoveResult(moved=True, source=(20, 24), destination=(20, 25), direction=4, reason='moved', terrain_id=222, blocking_code=2, shifted=(), town_exit=21, world_source=(68, 408), world_destination=(68, 409))
+Final local position: (20, 25)
+Final absolute world tile: (68, 409)
+Detected town entrance: 21
+
+Original screenshot viewport crop: x=35, y=66, 252x324
+Native renderer mean absolute RGB error: 0.380222
+Maximum channel error: 3
+Native viewport SHA-256 (RGB bytes): 74849ef6a2419221195b809e02154b9aa8528d90c490ef5515b82d71a0512a74
+
+Notes:
+- Renderer uses original Exile III assets from the local install; none are packaged.
+- The screenshot comparison validates terrain, saved visibility and party composition for this surface sample.
+- Dynamic exploration uses the prototype terrain-only LOS approximation until full classic can_see/light behavior is ported.

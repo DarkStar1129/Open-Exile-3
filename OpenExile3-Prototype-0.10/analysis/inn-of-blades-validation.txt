@@ -1,0 +1,44 @@
+OpenExile3 Prototype 0.10 - Inn of Blades validation
+
+Save identity
+-------------
+current town:          123
+name:                  Inn of Blades
+resource difficulty:   2
+party position:        (43,20)
+age/ticks:             9882
+day:                   3
+gold:                  488
+direction:             1
+populated creatures:   18
+active populated:      18
+
+Retained outdoor anchor
+-----------------------
+corner:                (1,8)
+quadrant:              (1,0)
+working:               (73,32)
+local:                 (25,32)
+sector:                (2,8), record 74
+region:                North of Krizsan
+OUTDOOR.DAT exit:       (25,32) -> Town #123
+absolute world tile:   (121,416)
+
+Renderer validation
+-------------------
+render size:            252x324 (9x9 at 28x36 per tile)
+renderer RGB SHA-256:   75c4e005e8d479714d8d3a38ba9ad05f75881f9167d2ed256648e0e062a1f7e0
+best screenshot crop:   x=33, y=65, width=252, height=324
+mean absolute RGB err:  1.9445097654974197
+max channel error:      3
+
+Town source-map warning
+-----------------------
+The previous heuristic reports a 64x64 candidate at TOWN.DAT offset 147260,
+which is Fort Emergence. It matches only 1876/4096 bytes (45.80%) and exactly
+16/64 columns. Those exact columns are stale inactive live-buffer data, not
+proof that the Inn is a 64x64 Fort map.
+
+Prototype 0.10 marks this result untrusted and MovementSandbox refuses to use
+it for town bounds. The live terrain is still rendered directly and matches
+the supplied screenshot closely.

@@ -1,0 +1,17 @@
+Save: /mnt/data/EXILE32_NEW COTRA.SAV
+Mode: town (flag 1342)
+Outdoor corner: (7,8)
+Outdoor quadrant i_w_c: (0,0)
+Outdoor working-map position: (27,25)
+Outdoor local sector position: (27,25)
+Outdoor invariant p_loc=i_w_c*48+loc_in_sec: True
+Underlying sector: (7,8) index 79
+Region: Western Upper Exile
+Sector labels: Forested Island | Near New Cotra | Farmland | Farmland | Small Swamp
+Exit at current local tile: town #42
+Nearby exits: (27,25)->town #42
+Nearby signs: (24,25)
+Town: #42 New Cotra at (4, 29)
+Town active size: 48x48
+TOWN.DAT terrain offset: 288,718
+Source match: 2,304/2,304 (100.00%)

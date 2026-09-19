@@ -1,0 +1,12 @@
+Save: /mnt/data/EXILE32_Edited_Surface.SAV
+Mode: outdoor (flag 5790)
+Outdoor corner: (1,8)
+Outdoor quadrant i_w_c: (0,0)
+Outdoor working-map position: (20,23)
+Outdoor local sector position: (20,23)
+Outdoor invariant p_loc=i_w_c*48+loc_in_sec: True
+Underlying sector: (1,8) index 73
+Region: Fort Emergence Area
+Sector labels: Near Fort Emergence | Isolated Hut | Mountain Pass | Small Vale | Small Vale
+Special at current local tile: id #2 (slot 1)
+Nearby specials: (20,23)->id #2

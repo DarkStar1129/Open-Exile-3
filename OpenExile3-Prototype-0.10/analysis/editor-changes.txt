@@ -1,0 +1,84 @@
+Before: /mnt/data/EXILE32.SAV
+After:  /mnt/data/EXILE32_Edited.SAV
+Raw differing bytes: 1509
+
+PC 1: Jenneke
+  HP: (22, 22) -> (82, 82)
+  Strength[0]: 8 -> 20
+  Dexterity[1]: 6 -> 20
+  Intelligence[2]: 2 -> 20
+  Edged Weapon[3]: 6 -> 20
+  Bashing Weapon[4]: 0 -> 1
+  Defense[8]: 0 -> 20
+  Item Lore[13]: 1 -> 10
+  Assassination[16]: 2 -> 20
+  Luck[18]: 0 -> 20
+  inventory: ['Lockpicks', 'Candle', 'Bronze Knife', 'Stone Mace', 'Stone Club', 'Crude Buckler', 'Shirt', 'Piece of Paper', 'Mug', 'Pants', 'Pants'] -> ['Lockpicks', 'Magic Short Sword', 'Magic Studded Armor', 'Magic Gauntlets', 'Magic Buckler', 'Magic Boots']
+
+PC 2: Thissa
+  HP: (24, 24) -> (82, 82)
+  Strength[0]: 10 -> 20
+  Dexterity[1]: 7 -> 20
+  Intelligence[2]: 3 -> 20
+  Bashing Weapon[4]: 0 -> 20
+  Pole Weapon[5]: 6 -> 20
+  Defense[8]: 3 -> 20
+  Luck[18]: 0 -> 20
+  inventory: ['Stone Spear', 'Leather Helm', 'Weak Healing P.'] -> ['Magic Plate', 'Magic Buckler', 'Magic Helm', 'Magic Greathelm', 'Magic Gauntlets', 'Magic Boots', 'Magic Halberd']
+
+PC 3: Frrrrrr
+  HP: (24, 24) -> (82, 82)
+  Strength[0]: 8 -> 20
+  Dexterity[1]: 8 -> 20
+  Intelligence[2]: 2 -> 20
+  Archery[7]: 2 -> 20
+  Defense[8]: 0 -> 20
+  Item Lore[13]: 0 -> 10
+  Disarm Traps[14]: 4 -> 20
+  Lockpicking[15]: 4 -> 20
+  Assassination[16]: 0 -> 20
+  Poison[17]: 2 -> 20
+  Luck[18]: 1 -> 20
+  inventory: ['Cavewood Bow', 'Arrows', 'Shirt'] -> ['Magic Bow', 'Magic Arrows', 'Magic Studded Armor', 'Magic Boots']
+
+PC 4: Adrianna
+  HP: (16, 16) -> (82, 82)
+  SP: (29, 29) -> (82, 82)
+  Strength[0]: 3 -> 20
+  Dexterity[1]: 2 -> 20
+  Intelligence[2]: 6 -> 20
+  Defense[8]: 0 -> 20
+  Mage Spells[9]: 3 -> 7
+  Mage Lore[11]: 3 -> 20
+  Alchemy[12]: 0 -> 20
+  Item Lore[13]: 1 -> 10
+  Luck[18]: 0 -> 20
+  inventory: ['Bronze Knife', 'Crude Buckler', 'Scroll: Slow'] -> ['Magic Boots', 'Magic Studded Armor']
+
+PC 5: Feodoric
+  HP: (16, 16) -> (82, 82)
+  SP: (29, 29) -> (82, 82)
+  Strength[0]: 2 -> 18
+  Dexterity[1]: 2 -> 20
+  Intelligence[2]: 6 -> 20
+  Defense[8]: 0 -> 20
+  Mage Spells[9]: 2 -> 7
+  Priest Spells[10]: 1 -> 7
+  Mage Lore[11]: 4 -> 20
+  Item Lore[13]: 0 -> 10
+  Luck[18]: 1 -> 20
+  inventory: ['Bronze Knife', 'Crude Buckler'] -> ['Magic Boots', 'Magic Studded Armor']
+
+PC 6: Michael
+  HP: (18, 18) -> (82, 82)
+  SP: (30, 30) -> (82, 82)
+  Strength[0]: 2 -> 20
+  Dexterity[1]: 2 -> 20
+  Intelligence[2]: 6 -> 20
+  Archery[7]: 0 -> 4
+  Defense[8]: 1 -> 20
+  Priest Spells[10]: 3 -> 7
+  Mage Lore[11]: 3 -> 20
+  Alchemy[12]: 2 -> 5
+  Luck[18]: 0 -> 20
+  inventory: ['Bronze Knife', 'Crude Buckler', 'Robes'] -> ['Magic Boots', 'Magic Studded Armor']

@@ -1,0 +1,12 @@
+Save: /mnt/data/EXILE3_OUTSIDE.SAV
+Mode: outdoor (flag 5790)
+Outdoor corner: (7,8)
+Outdoor quadrant i_w_c: (1,1)
+Outdoor working-map position: (84,85)
+Outdoor local sector position: (36,37)
+Outdoor invariant p_loc=i_w_c*48+loc_in_sec: True
+Underlying sector: (8,9) index 89
+Region: Near Fort Emergence
+Sector labels: Near Fort Emergence | Large stone bridge | Dank, Disused Tunnel | Goblin Tunnels | Remote Lake | Forest of Stalagmites
+Nearby exits: (36,36)->town #21
+Nearby signs: (35,39)

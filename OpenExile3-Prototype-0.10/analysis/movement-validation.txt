@@ -1,0 +1,9 @@
+party (34,28)
+ N (34,27) tid= 71 Water                      BLOCKED move
+NE (35,27) tid= 71 Water                      BLOCKED move
+ E (35,28) tid=245 Walkway                    OPEN    
+SE (35,29) tid=245 Walkway                    OPEN    
+ S (34,29) tid=245 Walkway                    OPEN    
+SW (33,29) tid=245 Walkway                    OPEN    
+ W (33,28) tid=245 Walkway                    OPEN    
+NW (33,27) tid= 71 Water                      BLOCKED move
